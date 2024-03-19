@@ -4,7 +4,7 @@ body{
 	padding: 0;
 }
 header{
-	background-color: #f1f1f1;
+	background-color: rgb(134, 59, 10);
 	padding: 20px;
 }
 nav{
@@ -35,9 +35,9 @@ nav li a:hover{
 .dropdown-contents{
 	display: none;
 	position: absolute;
-	background-color: #f1f1f1;
+	background-color: #fa9511;
 	min-width: 160px;
-	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 8px 16px 0px rgba(29, 25, 25, 0.2);
 	z-index: 1;
 }
 .dropdown-contents a{
@@ -54,10 +54,10 @@ display: block;
 }
 section{
 	padding: 20px;
-	border-bottom: 1px solid #ddd;
+	border-bottom: 1px solid #087525;
 }
 footer{
 	text-align: center;
 	padding: 20px;
-	background-color: #f1f1f1;
+	background-color: rgb(134, 59, 10);
 }
